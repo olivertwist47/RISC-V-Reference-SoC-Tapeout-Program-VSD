@@ -21,7 +21,7 @@ $ git submodule update --init --recursive
 $ make 
 $ sudo make install
 ```
-<img width="575" alt="yosys" src="">
+<img width="575" alt="yosys" src="https://github.com/olivertwist47/RISC-V-Reference-SoC-Tapeout-Program-VSD/blob/37a8b278b0fd97e5a409aa7a84daad3e2539dbf3/Yosys1.png">
 
 ## Iverilog
 ```
