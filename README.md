@@ -21,30 +21,29 @@ $ git submodule update --init --recursive
 $ make 
 $ sudo make install
 ```
-<img width="575" alt="yosys" src="">
+<img width="702" alt="yosys" src="https://github.com/olivertwist47/RISC-V-Reference-SoC-Tapeout-Program-VSD/blob/37a8b278b0fd97e5a409aa7a84daad3e2539dbf3/Yosys1.png">
+<img width="702" alt="yosys" src="https://github.com/olivertwist47/RISC-V-Reference-SoC-Tapeout-Program-VSD/blob/27e0832e3b7bd56f50a975c3fac429030b133c15/Yosys2.png">
 
 ## Iverilog
 ```
 $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
-<img width="702" alt="iverilog" src="">
+<img width="702" alt="iverilog" src="https://github.com/olivertwist47/RISC-V-Reference-SoC-Tapeout-Program-VSD/blob/27e0832e3b7bd56f50a975c3fac429030b133c15/Iverilog.png">
 
 ## GTKWave
 ```
 $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
-<img width="604" alt="gtkwave2" src="">
-
-<img width="1008" alt="gtkwave1" src="">
+<img width="604" alt="gtkwave" src="https://github.com/olivertwist47/RISC-V-Reference-SoC-Tapeout-Program-VSD/blob/27e0832e3b7bd56f50a975c3fac429030b133c15/GTKwave.png">
 
 ## Ngspice
 ```
 $ sudo apt update
 $ sudo apt install ngspice
 ```
-<img width="702" alt="iverilog" src="">
+<img width="702" alt="iverilog" src="https://github.com/olivertwist47/RISC-V-Reference-SoC-Tapeout-Program-VSD/blob/27e0832e3b7bd56f50a975c3fac429030b133c15/Ngspice.png">
 
 ## Magic VLSI
 ```
@@ -71,7 +70,7 @@ make
 # Install system-wide
 sudo make install
 ```
-<img width="702" alt="iverilog" src="">
+<img width="702" alt="iverilog" src="https://github.com/olivertwist47/RISC-V-Reference-SoC-Tapeout-Program-VSD/blob/27e0832e3b7bd56f50a975c3fac429030b133c15/Magic.png">
 </details>
 
 
