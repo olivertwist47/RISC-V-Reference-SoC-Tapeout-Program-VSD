@@ -1,8 +1,4 @@
-# RISC-V-Reference-SoC-Tapeout-Program-VSD
-This repository documents my journey through the VSD RISC-V SoC Tapeout Program. Here you'll find a weekly log of tasks completed and lessons learned.
-
-<details>
-	<summary>Day 0 - Tools Installatioon </summary>
+# Week 0 - Repository
 	
 # Day 0 - Tools Installation
 ## Yosys
@@ -72,7 +68,6 @@ make
 sudo make install
 ```
 <img width="702" alt="magic" src="https://github.com/olivertwist47/RISC-V-Reference-SoC-Tapeout-Program-VSD/blob/27e0832e3b7bd56f50a975c3fac429030b133c15/Magic.png">
-</details>
 
 
 
