@@ -5,7 +5,7 @@ This repository documents my journey through the VSD RISC-V SoC Tapeout Program.
 
 | Week   | Task                              | Description                        | Status |
 |--------|-----------------------------------|------------------------------------|--------|
-| [Week 0](Week0/) | [Task 1/2](Week0/README.md) | Tool installations and verifications | ✔️     |
+| [Week 0](https://github.com/olivertwist47/RISC-V-Reference-SoC-Tapeout-Program-VSD/blob/94b528f07f19da8a648e2253bffd1e3321e7ff23/README.md) | [Task 1/2](https://github.com/olivertwist47/RISC-V-Reference-SoC-Tapeout-Program-VSD/blob/94b528f07f19da8a648e2253bffd1e3321e7ff23/README.md) | Tool installations and verifications | ✔️     |
 
 ## Acknowledgements
 
